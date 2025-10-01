@@ -1,1 +1,1 @@
-view here: file:///Users/christinejoysorronda/mybook/_build/html/intro.html 
+view here: https://csorronda.github.io/jupyter-book/intro.html
